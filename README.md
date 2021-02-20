@@ -22,4 +22,4 @@ The client needs to establish a TCP connection with a mail server (e.g., a Googl
 dialogues with the mail server using the SMTP protocol, sends an email message to a recipient (e.g., your friend) 
 via the mail server, and finally close the TCP connection with the mail server.
 
-You can check report for more details.
+You can check report for more details and sample input/output.
